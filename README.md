@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Léa 👋
 
-<!--
-**leaakrour/leaakrour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Léa here - a recent **Computer Science** grad from **Grenoble INP - Ensimag**, passionate about software engineering and building things that real people rely on. 
 
-Here are some ideas to get you started:
+- 🎓 **CPGE MPSI/MP**, then **Computer Science & Applied Math** grad @ **Grenoble INP - Ensimag** (2026)
+- 💼 Ex-intern @ Datadog (On-Call team)
+- 🔬 Also: ML research @ Centre Léon Bérard, exchange semester @ McMaster University (Canada)
+- 🔭 Looking for **Software Engineer** roles
+- 📍 France
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/léa-akrour-53918738a)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-lea.akrour04@gmail.com)
