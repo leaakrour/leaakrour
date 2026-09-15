@@ -1,10 +1,10 @@
 # Hi, I'm Léa 👋
 
-Léa here - a recent **Computer Science** grad from **Grenoble INP - Ensimag**, passionate about software engineering and building things that real people rely on. 
+Léa here - a recent **Computer Science** grad (2026) from **Grenoble INP - Ensimag**, passionate about software engineering and building things that real people rely on. 
 
 - 🎓 **CPGE MPSI/MP**, then **Computer Science & Applied Math** grad @ **Grenoble INP - Ensimag** (2026)
 - 💼 Ex-intern @ **Datadog** (On-Call team)
-- 🔬 Also: ML research @ Centre Léon Bérard, exchange semester @ McMaster University (Canada)
+- 🔬 Also: **ML research** @ Centre Léon Bérard, exchange semester @ **McMaster University** (Canada)
 - 🔭 Looking for **Software Engineer** roles
 - 📍 France
 
